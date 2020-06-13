@@ -1,2 +1,2 @@
-# SzebiTina.githu.io
+# SzebiTina.github.io
 Demo page
